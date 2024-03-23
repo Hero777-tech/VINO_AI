@@ -1,6 +1,6 @@
 import React from 'react'
 
-const TransformationsPage = ({ params: {id} }) => { //pending part.
+const TransformationsPage = ({ params: {} }) => { //pending part. id needs to update
   return (
     <div>TransformationsPage</div>
   )
