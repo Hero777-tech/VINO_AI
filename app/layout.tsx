@@ -4,6 +4,7 @@ import "./globals.css";
 import { cn } from "@/lib/utils";
 import { ClerkProvider } from "@clerk/nextjs";
 import { Analytics } from "@vercel/analytics/react"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const IBMPlex = IBM_Plex_Sans({
    subsets: ["latin"],
@@ -29,6 +30,7 @@ export default function RootLayout({
         <body className={cn("font-IBMPlex antialised, IBMPlex.variable")}>
           {children}
           <Analytics />
+          <SpeedInsights />
         </body>
       </html>
 
