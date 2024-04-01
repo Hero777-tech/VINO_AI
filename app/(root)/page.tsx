@@ -47,7 +47,7 @@ const Home = ({ searchParams }: SearchParamProps) => {
 
       <section className="sm:mt-12">
         <Collection
-          hasSearch={false}
+          hasSearch={true}
           images={images?.data}
           totalPages={images?.totalPage}
           page={page}
