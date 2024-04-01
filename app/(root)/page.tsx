@@ -15,7 +15,7 @@ const Home = async ({ searchParams }: SearchParamProps) => {
     <>
       <section className="home">
         <h1 className="home-heading">
-          Unleash Your Creative Vision with Imaginify
+          Discover Boundless Inspiration with Imaginify
         </h1>
         <ul className="flex-center w-full gap-20">
           {navLinks.slice(1, 5).map((link) => (
@@ -35,7 +35,7 @@ const Home = async ({ searchParams }: SearchParamProps) => {
 
       <section className="sm:mt-12">
         <Collection 
-          hasSearch={true}
+          hasSearch={false}
           images={images?.data}
           totalPages={images?.totalPage}
           page={page}
