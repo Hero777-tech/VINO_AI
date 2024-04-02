@@ -51,9 +51,16 @@ Welcome to VINO AI, a powerful image transformation platform built with Next.js,
 - **Responsive UI/UX**: A seamless experience across devices with a user-friendly interface.
 - **Code Architecture and Reusability**: Well-structured codebase for maintainability and extensibility.
 
-## 📚 Learn More
+## 🔮 Future Scope
+- **AI Chatbot Integration**: Implement an AI-powered chatbot to enhance user interaction and provide assistance in image transformation processes.
+- **Enhanced Security Measures**: Continuously improve security protocols to safeguard user data and prevent unauthorized access.
+- **Integration with Social Media Platforms**: Enable users to directly share their transformed images on social media platforms, increasing visibility and user engagement.
 
-To learn more about VINO AI and its features, feel free to explore the project's GitHub repository: [VINO AI GitHub Repository](https://github.com/yourusername/vino-ai)
+## 🎃 Learn More
+
+To learn more about VINO AI and its features, feel free to explore the project's GitHub repository: [VINO AI GitHub Repository](https://github.com/Hero777-tech/VINO_AI/)
+
+## 📚 References
 
 ## 🚀 Deploy on Vercel
 
