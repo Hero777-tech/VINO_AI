@@ -7,7 +7,7 @@ export default authMiddleware({
   // no authentication information
   //ignoredRoutes: ['/no-auth-in-this-route'],
   //publicRoutes:['/api/webhooks/clerk'] // /api/webhooks/clerk updated frin api/we....
-  publicRoutes: ['/', '/api/webhooks/clerk', '/api/webhooks/stripe' , '/home']
+  publicRoutes: ['/', '/api/webhooks/clerk', '/api/webhooks/stripe']
 });
  
 export const config = {
