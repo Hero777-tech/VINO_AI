@@ -4,7 +4,8 @@ Welcome to VINO AI, a powerful image transformation platform built with Next.js,
 
 ## 🌐 Website UI
 
-![VINO AI](https://example.com/vino-ai-screenshot.png)
+![vinoUI](https://github.com/Hero777-tech/VINO_AI/assets/68598911/e478aed3-ad69-49aa-ba99-efb5c4194b79)
+
 
 ## 💻 Technology Used
 
