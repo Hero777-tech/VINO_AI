@@ -69,7 +69,8 @@ module.exports = {
         IBMPlex: ["var(--font-ibm-plex)"],
       },
       backgroundImage: {
-        "purple-gradient": "url('/assets/images/gradient-bg.svg')", //update image bg or normalbg assets
+        //"purple-gradient": "url('/assets/images/gradient-bg.svg')", //update image bg or normalbg assets
+        "purple-gradient": "url('https://img.freepik.com/free-photo/artistic-blurry-colorful-wallpaper-background_58702-8616.jpg?size=626&ext=jpg&ga=GA1.1.1887328245.1712134212&semt=ais')",
         banner: "url('/assets/images/banner-bg.png')",
       },
       borderRadius: {
