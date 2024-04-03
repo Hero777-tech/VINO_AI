@@ -62,12 +62,15 @@ Welcome to VINO AI, a powerful image transformation platform built with Next.js,
 To learn more about VINO AI and its features, feel free to explore the project's GitHub repository: [VINO AI GitHub Repository](https://github.com/Hero777-tech/VINO_AI/)
 
 ## 📚 References
+## Guide -- 
+[Button](https://ui.shadcn.com/docs/components/button) </br>
+[Error](https://www.hostinger.in/tutorials/502-bad-gateway) </br>
+[error](https://stackoverflow.com/questions/75809784/not-found-users) </br>
+[user integration](https://clerk.com/docs/quickstarts/nextjs) </br>
 
-## 🚀 Deploy on Vercel
+## 🚀 Deploy
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[Click here to visit](https://vino-ai.vercel.app/)
 
 Your feedback and contributions to VINO AI are always welcome!
 
